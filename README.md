@@ -7,7 +7,7 @@
 ### What I Do
 Building production SaaS apps with focus on UX/UI, performance, and clean architecture. From industrial automation to modern mobile/web development — I bring engineering rigor to software.
 
-### 💻 Tech Stack
+### Tech Stack
 **Mobile:** Flutter • Dart • Android • iOS  
 **Web:** React • TypeScript • JavaScript • Node.js  
 **DevOps:** Azure • CI/CD • Docker • Git  
@@ -19,8 +19,8 @@ Building production SaaS apps with focus on UX/UI, performance, and clean archit
 - [Copal](https://apps.apple.com/us/app/copal/id1660752505) - Configuration tool for palletization robots 
 
 ### Let's Connect
-📧 raulzanardo@gmail.com  
-📄 [Full Resume](https://github.com/raulzanardo/curriculo)
+raulzanardo@gmail.com  
+[Full Resume](https://github.com/raulzanardo/curriculo)
 
 ---
 
