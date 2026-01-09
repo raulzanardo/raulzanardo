@@ -1,4 +1,4 @@
-## Hey 👋 I'm Raul Zanardo
+## Hey 👋 I'm Raul
 
 **Frontend & Mobile Developer** crafting digital experiences with React and Flutter.
 
@@ -13,15 +13,22 @@ Building production SaaS apps with focus on UX/UI, performance, and clean archit
 **DevOps:** Azure • CI/CD • Docker • Git  
 **AI Tools:** GitHub Copilot • Cursor • Windsurf
 
-### Recent Projects
+### Recent works
 - [24Pet Shelter](https://www.24pet.com/products/24petshelter) – SaaS platform for animal shelters
 - [MyOrbit](https://www.myorbit.chat) – Privacy-focused relationship management app
 - [Copal](https://apps.apple.com/us/app/copal/id1660752505) - Configuration tool for palletization robots 
 
+### Recent personal projects
+- [lilygo-pixel-camera](https://github.com/raulzanardo/lilygo-pixel-camera) - ESP32-S3 camera app with image filters for LilyGo T-Display-S3-Pro
+- [spotify_clock_mps3](https://github.com/raulzanardo/spotify_clock_mps3) - Spotify-integrated clock display
+- [spotify_clock_wf2](https://github.com/raulzanardo/spotify_clock_wf2) - Alternative Spotify clock implementation
+- [Gradients_M5CoreS3](https://github.com/raulzanardo/Gradients_M5CoreS3) - A ball catch game for M5CoreS3
+
+
 ### Let's Connect
 raulzanardo@gmail.com  
 [Full Resume](https://github.com/raulzanardo/curriculo)
-
+[Linkedin](https://www.linkedin.com/in/raulzanardo/)
 ---
 
 *São Paulo, Brazil 🇧🇷*
