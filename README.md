@@ -1,4 +1,4 @@
-## Hey 👋 I'm Raul
+## Hey, I'm Raul 🤘
 
 **Frontend & Mobile Developer** crafting digital experiences with React and Flutter.
 
