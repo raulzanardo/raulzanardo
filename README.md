@@ -31,9 +31,9 @@ Building production SaaS apps with focus on UX/UI, performance, and clean archit
 
 ### Let's Connect
 
-raulzanardo@gmail.com  
-[Full Resume](https://github.com/raulzanardo/curriculo)
-[Linkedin](https://www.linkedin.com/in/raulzanardo/)
+✉️ raulzanardo@gmail.com  
+📄 [Full Resume](https://github.com/raulzanardo/curriculo)  
+💼 [Linkedin](https://www.linkedin.com/in/raulzanardo/)
 
 ---
 
